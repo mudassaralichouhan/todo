@@ -14,7 +14,7 @@ PHP 8.* is required and laravel 9
 
 * `php artisan migrate --seed`
 
-* [Postman Collection Link](http://www.google.com)
+* [Postman Collection Link](https://github.com/mudassaralichouhan/todo/releases/download/0.1/ToDo.postman_collection.json)
 
 ### We Completed Task
 
